@@ -1,0 +1,1 @@
+yourname = input('ÇëÊäÈëÄãµÄÃû×Ö£º')
